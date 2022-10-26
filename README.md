@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abbydab90
 - 👀 I’m interested in music, reading, Cleveland sports, and Peloton.
-- 🌱 I’m currently learning how to use GitHub! 
+
 
 <!---
 abbydab90/abbydab90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
